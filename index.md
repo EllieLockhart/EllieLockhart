@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Ellie Lockhart's GitHub Profile
 
-You can use the [editor on GitHub](https://github.com/EllieLockhart/EllieLockhart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ellie Lockhart is an academic researcher who has conducted academic study and taught in the field of Communication/Communication Studies at Texas A&M University in College Station, Texas and at Rowan University in Glassboro, New Jersey. She has seven years of classroom teaching experience and nine years of research into topics related to online culture and society. Ellie holds a PhD in Communication from Texas A&M. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, Ellie is retooling her skillset with a goal of becoming a researcher or web/app developer in the corporate or nonprofit world, applying her near-decade of experience with data in an academic context to a more specifically technology-focused area of expertise. Currently, Ellie is working on several projects, includng:
 
-### Markdown
+- data collection and scraping apps using Python (and other languages as needed); these apps are designed to aid in data analysis projects to answer specific questions;
+- data cleaning, analysis, visualization, and reporting using Python and iPython/Jupyter notebooks to answer specific research questions;
+- developing a set of sample web and mobile applications using Javascript & related frameworks, Java, Kotlin, Google's Flutter UI system, and of course HTML5/CSS as needed
+- as a side project, experimenting with scientific and quantitative data visualization using C# and Unity
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EllieLockhart/EllieLockhart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ellie's goal is to seek employment in web development, app development, and/or data science as soon as possible! She can be contacted at lytellie at gmail dot com.
