@@ -11,7 +11,9 @@ Key skills you can count on me for include, but are not limited to:
 Completed projects include:
 - A **[dataset](https://www.kaggle.com/ellielockhart/metacritic-rotten-tomatoes-controversial-reviews) of reviews of controversial films and video games** developed as part of my ongoing natural language research and offered for the use of anyone interested in the use of review bombing. [Github repository](https://github.com/EllieLockhart/Metacritic---Rotten-Tomatoes-Controversial-Reviews-Dataset)
 
-- 🔭 I’m currently working on data harvesting from various entertainment-related websites to gather public opinion data about films and video games, with the aim of building an algorithm to identify when an influence campaign is artificially attempting to raise or lower an entertainment product's "rating" on a site like Rotten Tomatoes or Metacritic. I'm using Python, PySpark, and AWS components to do this, with a little bit of R and Java/Scala thrown in.
+Ongoing projects:
+
+- I'm building on the above data set with Java, Scala, Python, and R data modeling techniques to develop an algorithm to allow companies to better identify which product reviews, particularly for entertainment products, are genuine.
 - 🌱 I'm working on a blog project similar to Medium which will use Java, Spring Boot, and Neo4j to make a reactive, creator-centered engine for recommendation-driven blogging, and I'm interested in taking this further as a business opportunity.
 - 👯 I’m looking to collaborate on hobby gaming projects, including an attempt to create a React.js and Node-based text game engine similar to Twine, but with an expanded feature set influenced by both classic Infocom games (inventory and mapping features) and AAA story game narrative devices like in-game diaries kept by characters. I'm also always interested in answering data questions that others have, and I encourage you to reach out to me about those.
 - 📫 You can get ahold of me at elliedev at protonmail dot com and I'm always happy to chat about code, geeky things, or professional opportunities.
